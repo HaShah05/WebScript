@@ -192,7 +192,7 @@ footer a {
 }
 
 /* Media Queries */
-@media (max-width: 768px) {
+@media (max-width: 960px) {
     /* Adjust header for smaller screens */
     .header.container {
         flex-direction: column;
