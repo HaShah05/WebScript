@@ -193,7 +193,7 @@ footer a {
 
 /* Media Queries */
 @media (max-width: 960px) {
-    /* Adjust header for smaller screens */
+    /*tablet */
     .header.container {
         flex-direction: column;
     }
@@ -229,7 +229,7 @@ footer a {
 }
 
 @media (max-width: 480px) {
-    /* Further reduce font size for mobile */
+    /*mobile */
     #home h1 {
         font-size: 1.5rem;
     }
