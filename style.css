@@ -193,7 +193,14 @@ footer a {
     text-decoration: none;
 }
 
-/* Media Queries */
+
+@media (min-width: 960px){
+    html{
+
+    }
+}
+
+
 @media (max-width: 960px) {
     /*tablet */
     .header.container {
