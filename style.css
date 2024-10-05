@@ -234,8 +234,22 @@ footer a {
         font-size: 3rem;
     }
 
-    .projects{
-        
+    .project article{
+        padding: 2rem;
+
+    }
+
+
+    .contact h1{
+        font-size: 3rem;
+    }
+    form{
+        max-width: 700px;
+    }
+
+    
+    footer{
+        padding: 2rem 0;
     }
 }
 
